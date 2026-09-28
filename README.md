@@ -31,4 +31,4 @@ Escolhi uma azul claro como cor principal as demais cores sendo complementares a
 
 6. Qual alteração ou correção foi necessária depois que você testou a página? Caso não tenha ocorrido
 erro, explique como realizou o teste.
-Eu tive que ajustar o tamanho da página que eu adicionei um heigth pro body e centralização/margem dos elementos.
+Eu tive que ajustar o tamanho da página que eu adicionei um heigth pro body e centralização/margem dos elementos. E da pagina duplicada que percebi no dia seguinte.
